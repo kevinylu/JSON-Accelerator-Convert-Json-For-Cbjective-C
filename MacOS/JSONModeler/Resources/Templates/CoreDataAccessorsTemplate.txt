@@ -1,4 +1,0 @@
-- (void)add{CLASSNAME}Object:({CLASSNAME} *)value;
-- (void)remove{CLASSNAME}Object:({CLASSNAME} *)value;
-- (void)add{CLASSNAME}:(NSSet *)value;
-- (void)remove{CLASSNAME}:(NSSet *)value;
